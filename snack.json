@@ -1,0 +1,50 @@
+[
+    {
+        "id":0,
+        "title":"농심 새우깡, 400g, 1개",
+        "image":"https://jonghyun123123.github.io/imgs/aa.png",
+        "grade":4,
+        "price":6990,
+        "sold":25911
+    },
+    {
+        "id":1,
+        "title":"마켓오 리얼브라우니 120g, 3개",
+        "image":"https://jonghyun123123.github.io/imgs/bb.png",
+        "grade":4.5,
+        "price":10850,
+        "sold":1576
+    },
+    {
+        "id":2,
+        "title":"오리온 초코송이, 648g, 1개",
+        "image":"https://jonghyun123123.github.io/imgs/cc.png",
+        "grade":3.5,
+        "price":8910,
+        "sold":32695
+    },
+    {
+        "id":3,
+        "title":"농심 바나나킥, 75g, 8개",
+        "image":"https://jonghyun123123.github.io/imgs/dd.png",
+        "grade":4,
+        "price":11860,
+        "sold":3095
+    },
+    {
+        "id":4,
+        "title":"꼬북칩 초코츄러스, 80g, 8개",
+        "image":"https://jonghyun123123.github.io/imgs/ee.png",
+        "grade":5,
+        "price":18510,
+        "sold":13472
+    },
+    {
+        "id":5,
+        "title":"돌아온 썬 핫스파이, 80g, 18개",
+        "image":"https://jonghyun123123.github.io/imgs/ff.png",
+        "grade":3,
+        "price":21420,
+        "sold":159
+    }
+]
